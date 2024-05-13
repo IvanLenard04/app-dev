@@ -1,2 +1,8 @@
-# app-dev
-My first repository
+# *Kung Fu Panda*
+**Po might just be the laziest, clumsiest panda in the Valley of Peace, but he secretly dreams of becoming a kung fu legend. When the villainous snow leopard Tai Lung threatens Po's homeland, the hapless panda is chosen to fulfil an ancient prophecy and defend the Valley from attack. Training under Master Shifu, Po embarks on an epic high-kicking adventure as he sets out to thwart Tai Lung's evil plans. A DreamWorks animation.**
+# *Kung Fu Panda 2*
+**Now known as the Dragon Warrior, Po (Chawalit Simankhongtham) protects the Valley of Peace alongside his friends and fellow kung fu masters, the Furious Five. However, a dangerous villain threatens Po's awesome new life with plans to use a secret weapon to wipe out the martial art and conquer China. In order to defeat the new enemy, Po finds he must recall his past and unlock secrets of his mysterious origins; only then will he find the strength to vanquish his foe.**
+# *Kung Fu Panda 3*
+**Living large and loving life, Po (Chawalit Simankhongtham) realizes that he has a lot to learn if he's going to fulfill the next challenge from his beloved instructor (Katreeya English). After reuniting with his long-lost father (Rong Kaomulkadee), Po must transition from student to teacher and train a group of fun-loving, clumsy pandas to become martial-arts fighters. Together, the kung-fu brethren unite to take on the evil Kai (Suwiwat Wattanapiriyaamorn), a supernatural warrior who becomes stronger with each battle.**
+# *Kung Fu Panda 4*
+**Po must train a new warrior when he's chosen to become the spiritual leader of the Valley of Peace. However, when a powerful shape-shifting sorceress sets her eyes on his Staff of Wisdom, he suddenly realizes he's going to need some help. Teaming up with a quick-witted corsac fox, Po soon discovers that heroes can be found in the most unexpected places.**
